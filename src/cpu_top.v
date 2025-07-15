@@ -13,7 +13,7 @@ wire [3:0] alu_op;
 wire alu_src, mem_to_reg, reg_write;
 wire [31:0] alu_result, mem_out, write_data;
 
-// No pc_in/pc_out loop confusion now
+
 if_stage IF (
     .clk(clk),
     .reset(reset),
