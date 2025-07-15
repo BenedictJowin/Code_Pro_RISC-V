@@ -1,0 +1,17 @@
+# Ignore ModelSim generated files
+*.bak
+*.wlf
+*.log
+*.ini
+*.mpf
+*.mti
+*.vstf
+*.sdf
+work/
+transcript
+vsim.wlf
+*.vcd
+
+# Ignore temp or hidden files
+*~
+*.DS_Store
