@@ -17,11 +17,15 @@ This project implements a modular RISC-V CPU (RV32I subset) structured with 5 cl
 ## Folder Structure
 
 Code_Pro_RISC-V/
+
 ├── src/ # All Verilog source files
+
 ├── testbench/ # Testbench and test program
+
 ├── waveforms/ # ModelSim simulation screenshots
 
 ├── README.md
+
 └── .gitignore
 
 
