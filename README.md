@@ -29,7 +29,7 @@ Code_Pro_RISC-V/
 All stages were tested using ModelSim. Below are key simulation results.
 
 ### Screenshot 1 – Instruction Fetch & Decode  
-<img src="waveforms/1_Instruction_Decode.png.png" width="600"/>
+<img src="waveforms/1_Instruction_Decode.png" width="600"/>
 
 ### Screenshot 2 – Register Read & ALU Operation  
 <img src="waveforms/2_Register_File_Access.png" width="600"/>
